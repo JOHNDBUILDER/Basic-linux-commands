@@ -1,0 +1,1 @@
+cost myName = "AMAKA"
